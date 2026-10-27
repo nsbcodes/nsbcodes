@@ -1,1 +1,1 @@
-I love writing maintainable, elegant, and configurable software. Feel free to explore the projects below to see some of my work. Each codebase is well-documented with preview media and a technical overview.
+I love writing maintainable, elegant, and configurable software. Feel free to explore the projects below to see some of my work. Each codebase is well-documented with preview media and a comprehensive technical overview.
